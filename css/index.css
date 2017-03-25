@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/**
+*
+* @authors Your Name (you@example.org)
+* @date    2017-03-23 13:14:26
+* @version $Id$
+*/
+*{
+	margin: 10px;
+}
+.box{
+width: 300px;
+height: 40px;
+margin: 0px;
+background: #ffffff;
+border: 1px solid lightgrey;
+}
+span:before{
+display: block;
+content: "开始日期：";
+font-size: 18px;
+background: #ffffff;
+position: absolute;
+top: 30px;
+left: 25px;
+}
+span:after{
+display: block;
+width: 20px;
+height: 20px;
+content: "";
+background: #ff000d;
+position: absolute;
+top: 30px;
+left: 290px;
+}
