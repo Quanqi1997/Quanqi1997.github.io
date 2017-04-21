@@ -1,0 +1,148 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-14 08:16:36
+ * @version $Id$
+ */
+.box{
+	width: 272px;
+	height: 190px;
+	border: 1px solid black;
+	background-color: white;
+	margin-bottom: 30px;
+}
+.box-picture{
+	float: left;
+	margin: 10px 0px 0px 12px;
+}
+.box-lastpicture{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+.can{
+	width: 275px; 
+	height: 205px;
+	margin-bottom: 30px;
+}
+.can-top-button1{
+	float: left;
+	width: 50px;
+	height: 20px;
+	border-width: 1px 0px 0px 1px;
+	border-style: solid;
+	border-color: black;
+    background-color: rgb(192,192,192);
+}
+.can-top-button2{
+	float: left;
+	width: 50px;
+	height: 20px;
+	border-width: 1px 0px 0px 1px;
+	border-style: solid;
+	border-color: black;
+}
+
+.can-top-button3{
+	float: left;
+	width: 50px;
+	height: 20px;
+	border-width: 1px 1px 0px 1px;
+	border-style: solid;
+	border-color: black;
+}
+.can-bottom{
+	width: 275px;
+	height: 185px;
+	border: 1px solid black;
+	float: left;
+	font-size: 100px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 185px;
+	color: #808080;
+}
+
+.container{
+	width: 285px;
+	height: 185px;
+	border: 1px solid black;
+}
+.container-1-first{
+	box-sizing:border-box;
+	float:left;
+	width:25px;
+	height:25px;
+	margin-top:10px;
+	margin-left: 10px;
+	border-style:solid;
+	border-width:1px 1px 1px 1px;
+	border-color:black;
+}
+.container-1-second{
+	box-sizing:border-box;
+	float:left;
+	width:190px;
+	height:25px;
+	margin-top:10px;
+	border-style:solid;
+	border-width:1px 0 1px 0;
+	border-color:black;
+}
+.container-1-third{
+	box-sizing:border-box;
+	width:50px;
+	height:25px;
+	margin-top:10px;
+	background:white;
+	border:1px solid black;
+	text-align:center;
+	line-height:25px;
+}
+
+.list{
+	border: 1px solid black;
+	width: 285px;
+}
+
+.list-ul{
+	list-style: none;
+	padding-left: 1px;
+}
+
+.list-li-table{
+  border: 1px solid black;
+  margin: 10px;
+  border-collapse:collapse;
+
+}
+
+.list-li-table td{
+	border-right: 1px solid black;
+}
+
+.list-li-table-order{
+	text-align: center;
+	width: 30px;
+}
+
+.list-li-table-content{
+	width: 180px;
+}
+
+.list-li-table-del{
+	width: 55px;
+	padding-left: 3px;
+}
+
+.add{
+	width: 90px;
+	height: 25px;
+	border: 1px solid black;
+	background-color: #339966;
+	text-align: center;
+	color: white;
+	margin-top: 25px;
+	float: right;
+}
