@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-23 17:56:44
+ * @version $Id$
+ */
+ .body{
+ 	background-image: url(D:/AAword/learning/secondtwo/WEB/text6/img/background1.jpg);
+ }
+ .box{
+ 	width: 800px;
+ 	height: 800px;
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	justify-content: flex-start;
+ 	align-content: flex-start;
+ }
+ .box-title{
+ 	width: 800px;
+ 	height: 100px;
+ 	line-height: 100px;
+ 	/*text-align: center;*/
+ 	color: white;
+ 	font-size: 70px;
+ 	margin-bottom: 50px;
+ }
+.box-line1{
+	width: 700px;
+	height: 100px;
+	margin-left: 100px;
+	/*text-align: center;*/
+}
+.box-line1 a{
+	color: white;
+	line-height: 40px;
+	font-size: 30px;
+}
