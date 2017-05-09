@@ -1,0 +1,198 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-05-09 16:39:22
+ * @version $Id$
+ */
+/*part one*/
+#myMap{
+	height: 600px;
+	width: 850px;
+	float: left;
+	border: 1px solid grey;
+	margin: 10px 10px 0px 50px;
+}
+/*part two*/
+#shbusMap{
+	height: 600px;
+	width: 850px;
+	float: left;
+	border: 1px solid grey;
+	margin: 10px 10px 10px 50px;
+}
+#result{
+    width: 350px;
+    border: 1px solid #ffdd99;
+    float: left;
+    margin-top: 10px;
+}
+/*part three*/
+#schoolMap{
+	height: 700px;
+	width: 950px;
+	float: left;
+	border: 1px solid grey;
+	margin: 10px 10px 10px 50px;
+}
+#shuyuan1{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan2{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan3{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan5{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan6{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan7{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan8{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan13{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan19{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan12{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan16{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan27{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan30{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan23{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#shuyuan{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#bowenyuan3{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#bowenyuan4{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#bowenyuan2{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#bowenyuan5{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#bowenyuan6{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#bowenyuan7{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#bowenyuan9{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#soccercort{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#playground{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#basketball{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#door{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#door1{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+#bowen{
+	width: 400px;
+	height: 300px;
+	display: none;
+}
+.sy-pic{
+	width: 380px;
+	height: 220px;
+	margin: 10px 10px 0px 10px;
+}
+.sy-number{
+	margin: 5px 5px 0px 10px;
+	float: left;
+	font-size: 17px;
+	width: 160px;
+	height: 25px;
+	line-height: 25px;
+	font-weight: bold;
+}
+.sy-information{
+	margin: 5px 10px 0px 0px;
+	float: right;
+	height: 25px;
+	font-size: 14px;
+	line-height: 25px;
+}
